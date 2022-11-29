@@ -1,0 +1,17 @@
+1. Inicio
+2. medida, d[0,n]<--10
+3. metros, i[0,n]<--1
+4. pulgadas, d[0,n]<--0
+5. pies, d[0,n]<--0
+6. yardas, d[0,n]<--0
+7. mensaje, x(200)[{a-z},{A-Z},{BS}]<--""
+8. << "\nMetros\tYardas\tPies\tPulgadas\n"
+9.  Mientras metros <= medida entonces
+10.   pulgadas <-- (metros * 100)/2.54
+11.   pies <-- (metros * 39.37)/12
+12.   yardas <-- (metros * 3.28)/3
+13.   mensaje<--mensaje + "\n" + metros + "\t" + yardas + "\t" + pies + "\t" + pulgadas + "\n"
+14.   metros <-- metros + 1
+15. Fin Mientras 
+16.<<mensaje
+17.Fin

@@ -1,0 +1,16 @@
+1.Inicio
+2. numero, d[-n,n]
+3. contador, i[0,n]<--2
+4. resultado, d[0,n]<--0
+5. << "Ingrese un número que desea sumar: "
+6. >> numero
+7.  Si numero >= 2 entonces
+8.	Mientras contador <= numero entonces
+9.		resultado <-- contador + 2
+10.		contador <-- contador + 2
+11.	Fin Mientras
+12. De lo contrario
+13.	<< "Error, el número ingresado es menor a 2.\nIntentelo otra vez."	
+14. Fin Si
+15. << "La suma de los pares" + numero + " es: " + resultado
+16.Fin

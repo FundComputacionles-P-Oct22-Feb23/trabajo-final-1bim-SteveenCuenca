@@ -1,0 +1,23 @@
+1. Inicio
+2. mensaje, x(200)[{ <-- ""
+3. angulo, i[0-n]
+4. contador, i[0-n]<--1
+5.  Mientras contador <= 3 entonces
+6.   <<"Ingrese el valor del angulo"
+7.   >>angulo
+8.   contador <-- contador + 1
+9.   Si angulo == 90 entonces
+10.   acumulador <-- acumulador + "El angulo tiene un tamaño de:" 
+      + angulo + "\t" + "por lo tanto es rectángulo'" + "\n"
+11.  De lo contrario 
+12.  Si angulo > 90 && angulo <180 entonces 
+13.   acumulador <-- acumulador + "El angulo tiene un tamaño de:" 
+      + angulo + "\t" + "por lo tanto es obtusángulo" + "\n"
+14.  De lo contrario 
+15.  Si angulo < 90 entonces
+16.   acumulador <-- acumulador + "El angulo tiene un tamaño de:"
+      + angulo + "\t" + " por lo tanto es acutángulo" 
+17.  Fin Si
+18. Fin Mientras
+19. <<"Respuesta:" + acumulador
+20. Fin        

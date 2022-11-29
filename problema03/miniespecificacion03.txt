@@ -1,0 +1,24 @@
+
+1.Inicio
+2. nombre,x(100) [(a-n), (A-N}, {BS}]
+3. tipodeEmpleado, 1[0-n]
+4. horasTrabajadas,d[0-n]
+5. total,d[0-n]
+6. <<"ingrese su nombre:"
+7. >>nombre
+8. <<"ingrese las horas de trabajo realizadas:"
+9. >>horasTrabajadas
+10. <<"ingrese el tipo de empleado:"
+11. >>tipoEmpleado
+12. si tipodeEmpleado = 1 entonces
+13. total<-- horas Trabajadas * 1.5
+14. De lo contrario
+15. Si tipodeEmpleado = 2 entonces
+16. total<-- horasTrabajadas * 2
+17. Si tipodeEmpleado = 3 entonces
+18. total<-- horas Trabajadas * 2.5
+19. Si tipodeEmpleado = 4 entonces
+20. total<-- horasTrabajadas * 3
+21. FinSi
+22.<<"El sueldo por pagar es de:" + total
+23. Fin

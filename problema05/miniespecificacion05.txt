@@ -1,0 +1,19 @@
+1. Inicio
+2. x, i[-n, +n]
+3. y, i[-n, +n]
+4.  Si ( x > 0 and y > 0)entonces
+5.   >> "Esta en el primer cuadrante"
+6.  De lo contrario:
+7.   Si (x < 0 and y > 0) entonces
+8.     << "Esta en el segundo cuadrante"
+9.   De lo contrario
+10.    Si (x < 0 and y < 0)entonces
+11.      << "Esta en el tercer cuadrante"
+12.    De lo contrario 
+13.      Si ( x > 0 and y < 0) entonces
+14.        << "Esta en el cuarto cuadrante"
+15.      FinSi
+16.    FinSi
+17,   FinSi
+18.  FinSi
+19. Fin
