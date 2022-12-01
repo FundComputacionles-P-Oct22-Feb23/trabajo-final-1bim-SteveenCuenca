@@ -1,0 +1,18 @@
+1.Inicio
+2.Crear una variable denominada angulo.
+3.Crear una variable denominada mensaje con valor vacio.
+4.Crear una variable denominada contador con un valor 1.
+5.Se inicia un ciclo repetitivo.
+6.Crear una variable denominada descuento.
+7.Se inicia un ciclo repetitivo.
+8.Se ejecutara el ciclo repetitivo si el valor del contador sea menor o igual a 3.
+9.Se pide que el usuario ingrese por teclado el valor de angulo.
+10.Se inicia una condicion en la que si angulo es igual igual a 90 
+11.Entonces la variable mensaje guardara el valor que tenga mensaje mas "el angulo tiene un tamaño de" mas "doble espacio" mas "por lo tanto es recto" mas "espacio".
+12.De lo contrario si angulo es menor a 90 and angulo menor a 180 entonces.
+13.Entonces la variable mensaje guardara el valor que tenga mensaje mas "el angulo tiene un tamaño de" mas "doble espacio" mas "por lo tanto es obstusangulo" mas "espacio".
+12.De lo contrario si angulo es mayor a 90 and menor a 180 entonces.
+13.Entonces la variable mensaje guardara el valor que tenga mensaje mas "el angulo tiene un tamaño de" mas "doble espacio" mas "por lo tanto es acutangulo" mas "espacio".
+15.Ver a que tipo de rectangulo pertenece.
+16.Imprimir de que tipo es el rectangulo.
+17.Fin

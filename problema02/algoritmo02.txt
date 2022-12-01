@@ -1,0 +1,16 @@
+1.Inicio
+2.Crear una variable denominada traje
+3.Crear una variable denominada precioUnitario.
+4.Crear una variable denominada subTotal.
+5.Crear una variable denominada total.
+6.Crear una variable denominada descuento.
+7.Ingrese la cantidad de trajes adquiridos y guardar en traje.
+8.Ingresar el valor unitario del traje y guardar en precioUnitario.
+9.Si el numero de trajes comprados es 1 entonces realizar un descuento del 20%.
+10.Si el numero de trajes comprados es 2 entonces realizar un descuento del 25%.
+11.Si el numero de trajes comprados es 3 entonces realizar un descuento del 40%.
+12.Si el numero de trajes comprados es 4 entonces realizar un descuento del 50%.
+13.Imprimir el subtotal tomando en cuenta el descuento.
+14.Calcular el total a pagar.
+15.Imprimir el total a pagar.
+16.Fin

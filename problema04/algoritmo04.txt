@@ -1,0 +1,16 @@
+1.Inicio
+2.Crear una variable denominada dato1.
+3.Crear una variable denominada dato2.
+4.Crear una variable denominada dato3.
+5.Crear una variable denominada dato mayor.
+6.Ingrese el primer dato.
+7.Ingrese el segundo dato.
+8.Ingrese el tercer dato.
+9.Si el dato 1 es igual igual al dato 2 and dato 1 es igual a dato 3 entonces a dato mator se le asigna error los datos son iguales. 
+10.Si dato 2 es igual a dato 3 entonces a dato mayor se le asigna error los datos son iguales.
+11.Si dato 1 es menor que dato 2 and dato 1 es menor que dato 3 entonces a dato mayor se le asigna dato1.
+12.Si dato 2 es menor que dato 1 and dato 2 es menor que dato 3 entonces a dato mayor se le asigna dato2.
+13.Si dato 3 es menor que dato 2 and dato 3 es menor que dato 1 entonces a dato mayor se le asigna dato3.
+15.calcular el dato mayor es.
+16.Imprimir el dato mayor.
+17.Fin

@@ -11,18 +11,22 @@
 11. >>dato3
 12.  Si dato1 == dato2 and datol = dato 3 entonces
 13.    datoMayor<--"error los datos son iguales"
-14.      Si dato2 == dato3 entonces
-15.        datoMayor<-- "error los datos son iguales"
-16.          Si datol < dato2 and dato1 < dato3 entonces
-17.            datoMayor <-- datol
-18.              Si dato2 < datol and dato2 < dato3 entonces
-19.                datoMayor <-- dato2
-20.                  Si dato3 < dato2 and dato3 < datol entonces
-21.                    datoMayor <-- dato3
-22.                  Fin Si
-23.              Fin Si
-24.          Fin Si
-25.      Fin Si
-26.  Fin Si                 
-22. <<"El dato mayor es:" + datoMayor
-23. Fin
+14     De lo contrario
+15.      Si dato2 == dato3 entonces
+16.        datoMayor<-- "error los datos son iguales"
+17.        De lo contrario
+18.          Si datol < dato2 and dato1 < dato3 entonces
+19.            datoMayor <-- datol
+20.            De lo contrario
+21.              Si dato2 < datol and dato2 < dato3 entonces
+22.                datoMayor <-- dato2
+23.                De lo contrario
+24.                  Si dato3 < dato2 and dato3 < datol entonces
+25.                    datoMayor <-- dato3
+26.                  Fin Si
+27.              Fin Si
+28.          Fin Si
+29.      Fin Si
+30.  Fin Si                 
+31. <<"El dato mayor es:" + datoMayor
+32. Fin

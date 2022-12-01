@@ -31,6 +31,7 @@
 31.         FinSi
 32.     Fin Si
 33.  FinSi
-34. <<"Trajes comprados:  " + traje + "\n" + "El precio unitario es de:  +                   	precioUnitario + "\n" + "Subtotal:  " + subTotal + "\n" + 
-	"El descuento es de:  " + descuento + "\n" + "Total:  " + total + "\n"
+34. <<"Trajes comprados:  " + traje + "\n" + "El precio unitario es de:"
+      +precioUnitario + "\n" + "Subtotal:  " + subTotal + "\n" + 
+	 "El descuento es de:  " + descuento + "\n" + "Total:  " + total + "\n"
 35.Fin

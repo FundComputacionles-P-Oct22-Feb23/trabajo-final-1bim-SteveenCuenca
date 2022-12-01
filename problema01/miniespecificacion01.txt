@@ -1,5 +1,5 @@
 1. Inicio
-2. mensaje, x(200)[{ <-- ""
+2. mensaje, x(200)[{a-z}, {A-Z}, {0-n}, {BS}] <-- ""
 3. angulo, i[0-n]
 4. contador, i[0-n]<--1
 5.  Mientras contador <= 3 entonces

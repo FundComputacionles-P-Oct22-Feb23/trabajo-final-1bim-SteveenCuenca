@@ -1,0 +1,14 @@
+1.Inicio
+2.Crear una variable denominada terminar.
+3.Crear una variable denominada numero.
+4.Crear una variable denominada suma con un valor 0.
+5.Crear una variable denominada bandera con un valor true.
+6.Crear una variable denominada media.
+7.Crear una variable denominada contador con un valor 0.
+8.Crear una variable denominada mensaje con un  valor vacio.
+6.Iniciamos un ciclo repetitivo donde al usuario se le pide que ingrese los datos que desea calcular.
+7.Se pide al usuario que si desea salir del ciclo repetitivo escriba "si".
+8.Ya que el usuario desee salir del ciclo se termina el ingreso de datos y el ciclo repetitivo
+9.Se calcula la media sumando los datos ingresados por el usuario y se divide paranumero de sumandos ingresados.
+10.Se muestra en pantalla la media calculada.
+11.Fin
